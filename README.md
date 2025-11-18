@@ -2,10 +2,8 @@
 
 **Myriel** is a web platform for managing commercial property leases, tailored to comply with French regulations. It is developed using **Django**, **PostgreSQL**, and **Docker**, and is designed for private deployment in shopping center environments.
 
-![Status](https://img.shields.io/badge/status-testing(active)-yellow)
 ![License](https://img.shields.io/badge/license-proprietary-red)
-![Tests](https://img.shields.io/badge/tests-failing-red)
-![Coverage](https://img.shields.io/badge/coverage-45%25-orange)
+
 
 
 ## Features
