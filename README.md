@@ -128,7 +128,7 @@ Locaux_project/
    The application should be accessible at:
 
    ```
-   https://myriel.biobd.inf.puc-rio.br
+   https://myriel.online
    ```
 
 4. **Use a valid SSL certificate (Let's Encrypt or custom)** and adjust `nginx.conf` accordingly.
